@@ -1,3 +1,3 @@
-# Codeforces-707A-Brain-s-Photos
+# Codeforces-707A-Brains-Photos
 Problem  
 ![](capture.png)
